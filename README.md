@@ -10,6 +10,7 @@ The steps of checkout are as  follows:
     - Car
     - Bus
     - Tram
-    
+3. Select Submit.
+4. Then click Bold.    
 
 
